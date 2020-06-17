@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<citation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Item>
+		<heading />
+		<permanentlink>
+			<item>UFDC.ufl.ed</item>
+		</permanentlink>
+	</Item>
+	<MaterialInformation>
+		<heading>Test</heading>
+		<title>TestTitle</title>
+		<abbreviated_title>Test</abbreviated_title>
+		<creator>
+			<name xsi:type="xsd:string">TestName</name>
+			<role xsi:type="xsd:string">TestRole</role>
+		</creator>
+		<donor>
+			<name xsi:type="xsd:string">DonorName</name>
+			<url xsi:type="xsd:string">DonorURL</url>
+		</donor>
+		<pub_place>
+			<loc xsi:type="xsd:string">TestLoc</loc>
+			<url xsi:type="xsd:string">TestURL</url>
+		</pub_place>
+	<publisher>
+		<name xsi:type="xsd:string">TestName</name>
+		<url xsi:type="xsd:string">TestURL</url>
+	</publisher>
+	</MaterialInformation>
+</citation>

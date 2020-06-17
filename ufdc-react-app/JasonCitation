@@ -1,0 +1,37 @@
+{
+	"item":
+	{
+		"heading":"",
+		"permanentlink":
+		{
+			"link":"UFDC.ufl.ed"
+		}
+	},
+	"materialInformation":
+	{
+		"heading":"Test",
+		"title":"TestTitle",
+		"abbreviated_title":"Test",
+	"creator":
+	{
+		"name":"TestName",
+		"role":"TestRole"
+			  
+	},
+	"donor":
+	{
+		"name":"DonorName",
+		"url":"DonorURL"
+	},
+	"pub_place":
+	{
+		"loc":"TestLoc",
+		"url":"TestURL"
+	},
+	"publisher":
+	{
+		"name":"TestName",
+		"url":"TestURL"
+	}
+	}
+}
